@@ -1,6 +1,6 @@
 					//Please do not judge strictly :3
 					//It's my first work - encoder Caesar cipher.
-
+					//My own crutch (o_0)
 #include <string>
 #include <iostream>
 #include <fstream>
